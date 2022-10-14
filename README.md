@@ -15,3 +15,6 @@ Learn Github
 
 #Day 5
 Covered position (Fixed, absolute, relative), font-awsome, CDN
+
+#Day 6
+Covered position fixed, formatting scrollbar, sticky header, footer, left bar
